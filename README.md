@@ -1,34 +1,34 @@
-# Introduction to Yearn
+# Введение в Yearn
 
-Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.
+Yearn Finance — это набор продуктов в области децентрализованного финансирования (DeFi), который обеспечивает агрегирование кредитов, генерацию доходности и страхование в блокчейне Ethereum. Протокол поддерживается различными независимыми разработчиками и управляется держателями YFI.
 
-You can find brief descriptions of Yearn's core products, the governance process, and links to active communication channels below.
+Ниже вы можете ознакомиться с кратким описанием основных продуктов Yearn, процессом управления и ссылками на активные каналы связи.
 
-## Core Products
+## Основные Продукты
 
 ### Vaults
 
-Capital pools that automatically generate yield based on opportunities present in the market. Vaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users also do not need to have a proficient knowledge of the underlying protocols involved or DeFi, thus the Vaults represent a passive-investing strategy.
+Пулы капитала, которые автоматически генерируют доходность на основе имеющихся на рынке возможностей. Vaults приносит пользу пользователям за счет объединения затрат на газ, автоматизации процесса генерации доходности и перебалансировки, а также автоматического перераспределения капитала при возникновении возможностей. Конечным пользователям также не обязательно знать основополагающие протоколы или DeFi, поэтому Vaults представляет собой стратегию пассивного инвестирования.
 
 ### Earn
 
-The first Yearn product was a lending aggregator. Funds are shifted between dYdX, AAVE, and Compound automatically as interest rates change between these protocols. Users can deposit to these lending aggregator smart contracts via the Earn page. This product completely optimizes the interest accrual process for end-users to ensure they are obtaining the highest interest rates at all times among the platforms specified above.
+Первым продуктом Yearn стал агрегатор кредитов. Средства автоматически перемещаются между dYdX, AAVE и Compound по мере изменения процентных ставок между этими протоколами. Пользователи могут пополнять эти кредитные агрегаторы "умными" контрактами на странице "Earn". Этот продукт полностью оптимизирует процесс начисления процентов для конечных пользователей, чтобы гарантировать им получение самых высоких процентных ставок в любое время среди платформ, указанных выше.
 
 ### Zap
 
-A tool that enables users to swap into and out of (known as "Zapping") several liquidity pools available on Curve.Finance. These pools benefit from the lending aggregators discussed above, as well as earning users trading fees by partcipating as Liquidity Providers (LPs) on Curve.Fi. Currently users can use five stablecoins (BUSD, DAI, USDC, USDT, TUSD) and "Zap" into one of two pools (y.curve.fi or busd.curve.f) on Curve. Alternatively, users can "Zap" out of these two Curve pools and into one of the five base stablecoins.
+Инструмент, позволяющий пользователям осуществлять обмен (известный как "Zapping") между несколькими пулами ликвидности, доступными на Curve.Finance. Эти пулы извлекают выгоду из агрегирования кредитов, о которых говорилось выше, а также зарабатывать пользователям торговые сборы за счет частичного участия в качестве Поставщиков Ликвидности (ПЛ) на Curve.Fi. В настоящее время пользователи могут использовать пять стейблкойнов (BUSD, DAI, USDC, USDT, TUSD) для обмена в одном из двух пулов (y.curve.fi или busd.curve.f) на Curve. В ином случае, пользователи могут произвести обмен в один из этих двух пулах Curve на один из пяти базовых стейблкойнов.
 
 ### Cover
 
-Insurance that enables users to obtain coverage against financial loss for various smart contracts and/or protcols on the Ethereum blockchain. Cover is underwritten by Nexus Mutual.
+Страховка, которая позволяет пользователям получить защиту от финансовых потерь для различных "умных" контрактов и/или проколов на блокчейне Ethereum. Покрытие страхуется компанией Nexus Mutual.
 
 ## Governance
 
-The Yearn ecosystem is controlled by YFI token holders who submit and vote on proposals that govern the ecosystem. Proposals that meet quorum requirements \(&gt;20% of the tokens staked in the governance contract\) and generate a majority support \(&gt;50% of the vote\) are implemented by a 9 member multi-signature wallet. Changes must be signed by 6 out of the 9 wallet signers in order to be implemented. The members of the multi-signature wallet were voted in by YFI holders and are subject to change from future governance votes. Please refer to our FAQ for [the list of the multisig signers](https://docs.yearn.finance/faq#who-are-the-9-multisig-signers).
+Экосистема Yearn контролируется держателями токенов YFI, которые выдвигают и голосуют за предложения, которые управляют экосистемой. Предложения, удовлетворяющие требованиям кворума \(&gt;20% жетонов, размещенных в контракте на управление\) и обеспечивающие поддержку большинства \(&gt;50% голосов\), реализуются кошельком с несколькими подписями, состоящим из 9 членов. Изменения должны быть подписаны 6 из 9 подписчиков кошелька, чтобы быть реализованными. Члены кошелька с несколькими подписями были выбраны держателями YFI и могут быть изменены по сравнению с будущими голосами руководства. Пожалуйста, ознакомьтесь с нашим FAQ для просмотра [списка подписчиков кошелька с несколькими подписями](https://docs.yearn.finance/faq#who-are-the-9-multisig-signers).
 
-## Communication Channels
+## Каналы связи
 
-Governance Forum [https://gov.yearn.finance/](https://gov.yearn.finance/)
+Форум по вопросам управления [https://gov.yearn.finance/](https://gov.yearn.finance/)
 
 Discord [http://discord.yearn.finance](http://discord.yearn.finance)
 
