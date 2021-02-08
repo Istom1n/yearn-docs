@@ -1,17 +1,17 @@
-# Overview
+# Обзор
 
-The purpose of [ytrade.finance](https://ytrade.finance) is to create leveraged stable coin trades. LPs earn additional interest on their yield bearing tokens, traders can create leveraged positions.
+Целью [ytrade.finance] (https://ytrade.finance) является создание стабильной торговли монетами с кредитным плечом. LP зарабатывают дополнительные проценты на своих маркерах доходности, трейдеры могут создавать позиции с кредитным плечом.
 
-[ytrade.finance](https://ytrade.finance) supports;
+[ytrade.finance](https://ytrade.finance) поддерживает;
 
 - \$DAI
 - \$USDC
 - \$USDT
 - \$TUSD
 
-## Earning rewards as an LP
+## Заработок вознаграждений как LP
 
-LPs can deposit \$yCRV, the output token when you provide liquidity to [curve.fi/y](https://curve.fi/y)
+LP могут пополнить счет на \$yCRV, выходной токен при предоставлении ликвидности на [curve.fi/y](https://curve.fi/y)
 
 LPs retain all the rewards from \$yCRV, trading fees, and interest from the underlying [yearn.finance](https://yearn.finance).
 
@@ -21,9 +21,9 @@ So LPs earn;
 
 - Yield from [yearn.finance](https://yearn.finance)
 - Fees from [curve.fi/y](https://curve.fi/y)
-- Initiation fees from traders opening positions
-- Borrow fees based on utilization for opened positions, up to 30%
+- Начальные платежи трейдеров за открытие позиций
+- Комиссия за привлечение заемных средств в зависимости от использования по открытым позициям, до 30%
 
-## Opening positions as a trader
+## Открытие позиций в качестве трейдера
 
-Traders can trade $DAI, $USDC, $USDT, or $TUSD for one of the same. This trade is facilitated on [curve.fi/y](https://curve.fi). Traders can choose any leverage they are comfortable with. Traders can close their position at any time.
+Трейдеры могут торговать $DAI, $USDC, $USDT или $TUSD за один из них. Эта торговля облегчается на [curve.fi/y](https://curve.fi). Трейдеры могут выбрать любое удобное им кредитное плечо. Трейдеры могут закрыть свои позиции в любое время.

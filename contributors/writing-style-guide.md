@@ -1,34 +1,34 @@
-# Writing Style Guide
+# Руководство по Style Guide
 
-The Yearn Community Writing Style Guide summarizes the standards and best practices **writers** should follow when contributing to Yearn Documentation resources.
+В руководстве Yearn по стилю написания документов, кратко излагаются стандарты и лучшие практики, которым должны следовать **авторы**, внося свой вклад в разработку материалов документации Yearn.
 
-## Writing Intent and Tone
+## Письменное Содержание и Тон
 
-Yearn Community materials should cater to readers who are unfamiliar with the Yearn ecosystem. Writers should also assume that their readers have tight schedules and short attention spans, as after all, farming is honest but hard work.
+Материалы сообщества Yearn должны быть ориентированы на читателей, которые не знакомы с экосистемой Yearn. Писатели также должны исходить из того, что у их читателей плотный график и короткий промежуток времени, так как, в конце концов, фармерство - это честный, но трудолюбивый труд.
 
-As such, Writers should focus on communicating concepts as clearly and succinctly as possible.
+Поэтому авторы должны сосредоточиться на как можно более четком и лаконичном изложении концепций.
 
-- Use simple language.
-- Use short, concise sentences.
-- Avoid unnecessary words.
-- Remain open and objective.
-- Provide examples when possible.
-- Provide examples to help explain concepts, but avoid overcomplicating them.
-  - Use math when necessary, but keep it simple and visually easy to understand.
-- Link to basic terms if necessary.
+- Используйте простой язык.
+- Используйте короткие, лаконичные предложения.
+- Избегайте лишних слов.
+- Оставайтесь открытым и объективным.
+- Приведите примеры, когда это возможно.
+- Приводите примеры, чтобы помочь объяснить понятия, но избегайте их излишнего усложнения.
+  - При необходимости используйте математику, но придерживайтесь ее простоты и наглядности.
+- В случае необходимости, ссылка на основные термины.
 
-## Writer Guidelines
+## Руководство для Авторов
 
-### General Rules
+### Общие правила
 
 - Run all drafts through [Grammarly](https://app.grammarly.com/) regularly, and before final submissions.
-  - Grammarly will catch most spelling and grammatical errors.
-  - Copy rendered text into Grammarly and address any mistakes it flags.
-    - HackMD does not identify spelling and grammatical errors.
-    - Grammarly will miss errors if it’s given raw Markdown text.
-    - Be careful of copy and pasting code from Grammarly to VScode, Grammarly may mess with formatting.
+  - Grammarly ловит большинство орфографических и грамматических ошибок.
+  - Скопируйте отрисованный текст в Grammarly и исправьте все ошибки, которые в нем отмечены.
+    - HackMD не идентифицирует орфографические и грамматические ошибки.
+    - Grammarly пропустит ошибки, если ему будет дан исходный текст в Markdown.
+    - Будьте осторожны с копированием и вставкой кода из Grammarly в VScode, Grammarly может испортить форматирование.
 
-**Please Note**
+**Обратите внимание**
 
 - When migrating to a new document (i.e., from Google Docs to HackMD):
   - Leave a note in the old file.
@@ -36,7 +36,7 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Do not blindly accept Grammarly suggestions.
   - Review edits to make sure they make sense.
 
-**Use:**
+**Используйте:**
 
 - [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
 - [Pluralized, gender-neutral pronouns](https://en.wikipedia.org/wiki/Singular_they).
@@ -48,7 +48,7 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
 - Double quotes `" "` for phrases, quotes, etc.
   - Do not use single `' '` quotes.
 
-**Avoid:**
+**Избегайте:**
 
 - [First-person language.](https://en.wikipedia.org/wiki/Grammatical_person)
   - **Examples:** I, we, our, etc.
@@ -62,7 +62,7 @@ As such, Writers should focus on communicating concepts as clearly and succinctl
   - **Incorrect:** Development Grants are larger sized ($5,000 to $50,000) grants aimed at individuals or teams building projects around vaults and the broader Yearn ecosystem.
   - **Correct:** Development Grants are generally larger sized grants, ranging from $5,000 to $50,000, aimed at individuals or teams building projects around vaults and the broader Yearn ecosystem.
 
-### Abbreviations
+### Сокращения
 
 - Use parentheses to define abbreviated terms the first time they appear in a given document.
   - **Example:** A Yearn Improvement Proposal (YIP) is a proposal framework to support new initiatives and to expand the scope of existing ones.

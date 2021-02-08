@@ -1,48 +1,48 @@
-# Table of contents
+# Содержание
 
-- [Introduction to Yearn](README.md)
-- [FAQ](faq.md)
-- [DeFi Glossary](defi-glossary.md)
-- [How-To Guides](how-to-guides/README.md)
-  - [How to Add a Custom Token to MetaMask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
-  - [How To Make a YIP](how-to-guides/how-to-make-a-yip.md)
-  - [How to Mint yUSD](how-to-guides/how-to-mint-yusd.md)
-  - [How To Participate in a yVault](how-to-guides/how-to-participate-in-a-yvault.md)
-  - [How to Understand CRV Vote Locking](how-to-guides/how-to-understand-crv-vote-locking.md)
-  - [How To Understand yVault ROI](how-to-guides/how-to-understand-yvault-roi.md)
-  - [How To Withdraw from yEarn and yVaults](how-to-guides/how-to-withdraw-from-yEarn-and-yVaults.md)
-- [Governance](governance.md)
-- [YFI and yTokens](yfi-and-ytokens.md)
+- [Введение в Yearn](README.md)
+- [Часто Задаваемые Вопросы](faq.md)
+- [Словарь терминов DeFi](defi-glossary.md)
+- [Руководства](how-to-guides/README.md)
+  - [Как добавить собственный токен в MetaMask](how-to-guides/how-to-add-a-custom-token-to-metamask.md)
+  - [Как сделать YIP](how-to-guides/how-to-make-a-yip.md)
+  - [Как чеканить yUSD](how-to-guides/how-to-mint-yusd.md)
+  - [Как присоединиться к yVault](how-to-guides/how-to-participate-in-a-yvault.md)
+  - [Как понять блокировку CRV голосования](how-to-guides/how-to-understand-crv-vote-locking.md)
+  - [Как оценить окупаемость yVault](how-to-guides/how-to-understand-yvault-roi.md)
+  - [Как вывести с yEarn и yVaults](how-to-guides/how-to-withdraw-from-yEarn-and-yVaults.md)
+- [Управление](governance.md)
+- [YFI и YTokens](yfi-and-ytokens.md)
 - [yUSD](yusd.md)
 
-## Products
+## Продукты
 
 - [yVaults](products/yvaults.md)
 - [Earn](products/earn.md)
 - [Zap](products/zap.md)
 - [yInsure](products/yinsure.md)
 
-## R&D
+## Исследования и Разработка
 
 - [yBorrow](r-and-d/yborrow.md)
 - [yLiquidate](r-and-d/yliquidate.md)
 - [ySwap](r-and-d/yswap.md)
 - [yTrade](r-and-d/ytrade.md)
-- [Delegated Funding DAO Vaults](r-and-d/delegated-funding-dao-vaults.md)
+- [Делегированное финансирование хранилищ DAO](r-and-d/delegated-funding-dao-vaults.md)
 - [StableCredit](r-and-d/stablecredit.md)
 
-## Developers
+## Разработчикам
 
 - [Naming Conventions](developers/naming-convention.md)
-- [Deployed Contracts Registry](developers/deployed-contracts-registry.md)
-- [Code Repositories](developers/code-repositories.md)
-- [Integration Guide](developers/integration-guide.md)
+- [Реестр действующих контрактов](developers/deployed-contracts-registry.md)
+- [Репозитории исходных кодов](developers/code-repositories.md)
+- [Руководство по интеграции](developers/integration-guide.md)
 - [yVaults Documentation](developers/yvaults-documentation/README.md)
   - [Vaults Overview](developers/yvaults-documentation/vaults-overview.md)
   - [Vault Interfaces](developers/yvaults-documentation/vault-interfaces.md)
-- [Misc Resources](developers/misc-resources/README.md)
-  - [YIP Boilerplate](https://gist.github.com/sambacha/07c8580377cf7deec6be569322babcfd#file-yip-boilerplate-proposal-md)
-  - [Admin Access Policy](developers/misc-resources/adminpolicy.md)
+- [Остальные ресурсы](developers/misc-resources/README.md)
+  - [Шаблон для YIP](https://gist.github.com/sambacha/07c8580377cf7deec6be569322babcfd#file-yip-boilerplate-proposal-md)
+  - [Политика доступа администратора](developers/misc-resources/adminpolicy.md)
   - [Smart Contract API](developers/misc-resources/smart-contract-api/README.md)
     - [APR](developers/misc-resources/smart-contract-api/apr.md)
     - [iToken](developers/misc-resources/smart-contract-api/itoken.md)
@@ -74,18 +74,18 @@
     - [yusdt](developers/misc-resources/smart-contract-integration/yusdt.md)
     - [zap](developers/misc-resources/smart-contract-integration/zap.md)
 
-## Additional Resources
+## Дополнительные Источники
 
-- [Team](additional-resources/team.md)
+- [Команда](additional-resources/team.md)
 - [Github](https://github.com/iearn-finance)
 - [Medium](https://medium.com/iearn)
-- [Gov Forum](https://gov.yearn.finance/)
+- [Форум по Управлению](https://gov.yearn.finance/)
 - [Discord](http://discord.yearn.finance)
 - [Telegram](https://t.me/yearnfinance)
 - [Reddit](https://www.reddit.com/r/yearn_finance/)
 
-## Contributors
+## Участники
 
-- [Contribute](contributors/README.md)
-- [Contributor Tools](contributors/contributor-tools.md)
-- [Writing Style Guide](contributors/writing-style-guide.md)
+- [Внести свой вклад в работу](contributors/README.md)
+- [Инструменты для вкладчиков](contributors/contributor-tools.md)
+- [Руководство по Style Guide](contributors/writing-style-guide.md)

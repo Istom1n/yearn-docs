@@ -1,12 +1,12 @@
-# DeFi Glossary
+# Словарь терминов DeFi
 
 ### Aave
 
-[Aave](https://aave.com/) is an open-source and non-custodial lending protocol enabling the creation of money markets.
+[Aave](https://aave.com/) это открытый и некастодиальный кредитный протокол, позволяющий создавать денежные рынки.
 
-Users can earn interest on deposits and also borrow assets. Aave provides depositors a Liquidity Token that represents an equivalent derivative deposit in an identical asset.
+Пользователи могут зарабатывать проценты по депозитам, а также занимать активы. Aave предоставляет вкладчикам Токен Ликвидности, который представляет собой эквивалентный производный депозит в идентичном активе.
 
-For example, a user can deposit DAI and receive aDAI, which is a type of USD-based crypto derivative that essentially represents the value of the underlying DAI asset plus the interest gains from allowing the borrowing of one's DAI. That aDAI, could then also be used to implement further strategies to potentially amplify their gains even further.
+Например, пользователь может внести DAI на депозит и получить aDAI, который представляет собой тип крипто-дериватива на основе доллара США, который, по сути, представляет собой стоимость базового актива DAI плюс процентный доход от разрешения на заимствование своего DAI. Затем этот aDAI может быть использован для реализации дальнейших стратегий, которые потенциально могут еще больше увеличить его прибыль.
 
 ### Alpha Code
 
@@ -24,15 +24,15 @@ Audits may be either informal or formal audits and are meant to be a tool to fin
 
 Annual Percentage Yield, a time-based measurement of the Return On Investment \(ROI\) on an asset. For example, $100 invested at 2% APY would yield $102 after one year, if there is no compounding of any interest earned on that \$100 through the year. Assuming a static APY rate, the Monthly ROI would be 0.16%, in this case.
 
-### Arbitrage
+### Арбитраж
 
 The trading of a coin or crypto derivative, where the price spread between two different markets or exchanges for the same asset or product is utilized to earn greater profits.
 
 In DeFi, automated yield farming uses algorithmic arbitrage strategies to maximize returns for investors. These arbitrage strategies may include buying, selling, lending, and/or providing liquidity of one or more digital assets, often in the same day.
 
-### Automated Market Maker
+### Автоматизированный маркет-мейкер (Automated Market Maker — AMM)
 
-An Automated Market Maker \(AMM\) is a decentralized asset trading pool that enables market participants to buy or sell cryptocurrencies. AMMs are non-custodial and permissionless in nature. Most AMMs utilize either a constant product, constant mean, or constant sum market-making formula; however, the most common is a constant product market maker, most notably [Uniswap](https://uniswap.info/).
+Автоматизированный маркет-мейкер \(AMM\) - это децентрализованный пул торговли активами, позволяющий участникам рынка покупать или продавать крипто-валюты. АММ не являются кастодиальными и не разрешены по своей природе. Большинство АММ используют либо постоянную формулу создания рынка, либо формулу постоянного среднего, либо постоянную сумму, однако наиболее распространенным является постоянный маркет-мейкер, а именно [Uniswap](https://uniswap.info/).
 
 ### Balancer
 
@@ -72,21 +72,21 @@ Centralized Finance. In terms of cryptocurrency, CeFi is represented by centrali
 
 A CEX is a Centralized Exchange, with a physical address and a corporate structure. Like other CeFi businesses, a CEX must follow all applicable laws, rules, money transmitter licenses, and regulations in each country, state, or region in which they operate. There are significant overhead costs in running a CEX including Corporate leaders, labor, rent and electricity, office supplies, significant legal expenses, and expensive money transmitter licenses to be able to operate in chosen countries, states, or regions.
 
-### Coin
+### Монета
 
-A form of digital currency primarily used for payments or storage of wealth. Coins are secured by encryption algorithms. The market price of the coin represents the value of the ownership of a divisible unit of the coin or token \(another name for a coin, but a type of coin with greater functionality\) at a given moment in time. This coin or token can represent a share of the ownership and/or governance of a coin, token, protocol, company, or project and all of the benefits that this may entail.
+Форма цифровой валюты, используемая главным образом для платежей или хранения состояний. Монеты защищены алгоритмами шифрования. Рыночная цена монеты представляет собой стоимость владения разделительной единицей монеты или жетоном \(другое название монеты, но вид монеты с юольшой функциональностью\) в данный момент времени. Эта монета или токен может представлять собой долю владения и/или управления монетой, токеном, протоколом, компанией или проектом, и все выгоды, которые это может повлечь за собой.
 
-### Collateralization
+### Обеспечение
 
-The borrowing of a deposit asset or assets to seek further business activities such as Yield Farming. Collateralization can amplify gains or losses, and is thus, considered riskier than not borrowing funds.
+Заимствование депозитного актива или активов с целью дальнейшей коммерческой деятельности, например, Yield Farming (Сельскохозяйственное производство с высокой доходностью). Залоговое обеспечение может увеличить прибыль или убытки, и, таким образом, считается более рискованным, чем не заимствование средств.
 
-### Composability
+### Композиционность
 
 The measure of the usability and ability of the product to be used as a building block \(or "money lego"\) in the construction of other products or domains. A protocol that is simple, powerful, and that functions well with other protocols would be considered to have high composability.
 
 ### Compound
 
-The DeFi platform [Compound](https://compound.finance/). From the Compound DAO's description:
+Платформа DeFi [Compound](https://compound.finance/). Из описания Compound DAO:
 
 > an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
 >

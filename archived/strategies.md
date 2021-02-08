@@ -1,7 +1,7 @@
 ## strategies
 
 {% hint style="info" %}
-These docs are still being worked on.
+Над этими доками все еще работают.
 {% endhint %}
 
 ## 1split.eth

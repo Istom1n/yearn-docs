@@ -1,4 +1,4 @@
-# YFI and yTokens
+# YFI и yTokens
 
 ## YFI
 

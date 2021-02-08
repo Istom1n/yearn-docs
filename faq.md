@@ -3,41 +3,41 @@ title: faq.yearn.finance
 tags: "docs, faq, published"
 ---
 
-# FAQ
+# Часто Задаваемые Вопросы
 
-## General
+## Основные
 
-### Is it safe to invest money in Yearn?
+### Безопасно ли вкладывать деньги в Yearn?
 
-- Please do your own research and decide for yourself.
+- Пожалуйста, проведите собственное исследование и примите решение самостоятельно.
 
-### Is Yearn audited?
+### Проходил ли Yearn аудит?
 
-- Yes, you can find the list of audits [here](https://github.com/iearn-finance/audits).
+- Да, список проверок можно найти [здесь](https://github.com/iearn-finance/audits).
 
-## Feedback & Support
+## Обратная связь и Поддержка
 
-If you have questions about how to do anything, we can help you on:
+Если у вас есть вопросы о том, как что-то сделать, мы можем вам помочь:
 
 - [Discord](http://discord.yearn.finance)
 - [Telegram](https://t.me/yearnfinance)
 
-But if you think something can be improved, or you found a bug, we want to squash it. Please post it here:
+Но если вы думаете, что что-то можно улучшить, или вы нашли ошибку, мы хотим ее уничтожить. Пожалуйста, разместите её здесь:
 
-- [Github](https://github.com/iearn-finance) — create a new issue in the relevant repository.
-- [Forum](https://gov.yearn.finance/c/general-chat/feedback/2) — post in the feedback category.
+- [Github](https://github.com/iearn-finance) — создайте новый issue в соответствующем репозитории.
+- [Forum](https://gov.yearn.finance/c/general-chat/feedback/2) — создайте пост в категории отзывов.
 
-## Products
+## Продукты
 
 ### yearn.finance
 
-- [yearn.finance](https://yearn.finance/) hosts UIs for the **Vaults**, **Earn**, **Zap**, **APR**, and **Cover** products.
+- [yearn.finance](https://yearn.finance/) размещает пользовательские интерфейсы для продуктов **Vaults**, **Earn**, **Zap**, **APR**, и **Cover**.
 
 ### Vaults
 
 - [yearn.finance/vaults](https://yearn.finance/vaults)
 
-#### What is a Vault?
+#### Что такое (Vault) Хранилище?
 
 - Vaults employ strategies to automate the best yield farming opportunities available.
 - They were designed so that the community could work together to build new strategies to find the best yield.
@@ -66,9 +66,9 @@ But if you think something can be improved, or you found a bug, we want to squas
 
 #### What are the different yVaults?
 
-**yLINK and yaLINK**
+**yLINK и yaLINK**
 
-- **What's the difference between LINK and aLINK vaults?**
+- **В чем отличие между хранилищами yLINK и yaLINK?**
   - None in terms of returns. Deposited LINK will be deposited into Aave generating aLINK \(Aave interest bearing LINK\). So depositing directly into aLINK vault you are one step ahead in the process.
 - **Why is the yield different for aLINK and LINK vaults?**
   - aLINK has a 0.5% insurance "fee" \(this is returned when it is outperformed\). LINK vault doesn't have this fee to avoid double dipping.

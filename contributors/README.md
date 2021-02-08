@@ -1,12 +1,12 @@
-# Contribute
+# Внести свой вклад
 
-## Yearn Contributors
+## Участники Yearn
 
-Help build the future of finance, shape your skills, and grow the Yearn ecosystem. Before joining our community, take some time to understand the philosophy behind Yearn through the [Yearn Manifesto](https://gov.yearn.finance/t/how-we-think-about-yearn/7137).
+Помогите построить будущее финансов, сформировать свои навыки и вырастить экосистему года. Прежде чем присоединиться к нашему сообществу, уделите некоторое время изучению философии, лежащей в основе программы [Манифеста Yaern](https://gov.yearn.finance/t/how-we-think-about-yearn/7137).
 
-## How to Contribute
+## Как внести свой вклад
 
-### Have an idea?
+### Есть идеи?
 
 We are always open to new suggestions or better ways of doing things. If you have an idea feel free to use the appropriate channel on [Discord](http://discord.yearn.finance), [Reddit](https://www.reddit.com/r/yearn_finance/), or make a post on the governance [forum](https://gov.yearn.finance/c/general-chat/7). If the idea is thorough enough, make a post in the [Proposals](https://gov.yearn.finance/c/proposals/5) section on the governance forum and be sure to follow the Proposal [Guidelines](https://gov.yearn.finance/t/proposal-how-to/106). Check previous [YIPs](https://yips.yearn.finance/all-yip) for guidance.
 

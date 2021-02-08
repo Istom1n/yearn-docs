@@ -1,12 +1,12 @@
 # yUSD
 
-yUSD is an ERC-20 token issued by Yearn that **represents shares** in the most popular vault: the yCRV Vault \(listed as `curve.fi/y LP` on [vaults page](https://yearn.finance/vaults)\).
+yUSD — это токен ERC-20, выпущенный компанией Yearn, который **представляет акции** в самом популярном хранилище: yCRV Vault \(перечислено как `curve.fi/y LP` на [странице хранилищ](https://yearn.finance/vaults)\).
 
-yUSD makes DeFi simple by automatically maximizing yield and minimizing risk for depositors. On the backend, the yCRV Vault implements modular, autonomous, yield-aware strategies.
+yUSD упрощает работу с DeFi, автоматически максимизируя доходность и минимизируя риск для вкладчиков. На бэкэнде, yCRV Vault реализует модульные, автономные, ориентированные на ячейки стратегии.
 
-These are created and regularly updated by Yearn's community, all under the **control of Yearn governance.**
+Они создаются и регулярно обновляются сообществом "Yearn's", и все они находятся под управлением \*\*контроля "Yearn's".
 
-## How to Get yUSD
+## Как получить yUSD
 
 Full visual walkthrough here: [How to Mint yUSD](how-to-guides/how-to-mint-yusd.md).
 
@@ -17,11 +17,11 @@ _Supported wallets: Metamask, Trustwallet, Trezor, or Torus._
 3. Connect your wallet.
 4. Deposit your coins into the vault, receive yUSD.
 
-## yUSD in Detail
+## yUSD в дебалях
 
-You may also see yUSD referred to as `yyCRV` and `yyDAI+yUSDC+yUSDT+yTUSD` – both of these names are accurate and describe yUSD's composition.
+Вы также можете увидеть, что yUSD называется `yyCRV` и `yDAI+yUSDC+yUSDT+yTUSD` – оба эти названия точны и описывают состав yUSD.
 
-yUSD accrues earnings from **three tiers** of Yearn's modular strategies:
+yUSD накапливает прибыль от **трех уровней** модульных стратегий Yearn's:
 
 ### Tier 1: Money Markets
 
@@ -41,13 +41,13 @@ Created by developers who are rewarded for their efforts, these strategies are a
 
 At this tier the current strategy sits on top of the lower two tiers and **harvests CRV rewards to recycle them back into yCRV**—increasing the vault's base asset and the value of yUSD.
 
-## Resources
+## Ссылки
 
 - yUSD
   - CoinGecko: [https://www.coingecko.com/en/coins/yusd](https://www.coingecko.com/en/coins/yusd)
-  - yUSD Token contract: [0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c](https://etherscan.io/address/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c)
+  - Контракт yUSD Token: [0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c](https://etherscan.io/address/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c)
 - Code
-  - The vaults.finance source code on [GitHub](https://github.com/banteg/yearn-recycle)
-  - The current strategy: [StrategyCurveYCRVVoter](https://etherscan.io/address/0xc999fb87AcA383A63D804A575396F65A55aa5aC8#code)
+  - Исходныд код vaults.finance на [GitHub](https://github.com/banteg/yearn-recycle)
+  - Текущая стратегия: [StrategyCurveYCRVVoter](https://etherscan.io/address/0xc999fb87AcA383A63D804A575396F65A55aa5aC8#code)
 - FAQ
   - [https://docs.yearn.finance/faq\#vaults](https://docs.yearn.finance/faq#vaults)
